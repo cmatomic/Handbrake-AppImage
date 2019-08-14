@@ -13,7 +13,6 @@ HandBrake works with most common video files and formats, including ones created
 For information on downloading, building/installing, and using HandBrake, see the official [HandBrake Documentation](https://handbrake.fr/docs).
 https://github.com/HandBrake/HandBrake
 
-autobuild comand:
 
  autobuild comand
 In terminal
