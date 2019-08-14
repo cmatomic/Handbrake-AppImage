@@ -1,5 +1,5 @@
  
-Appimage  HandBrake 
+## Appimage  HandBrake 
 
 HandBrake is an open-source video transcoder available for Linux, Mac, and Windows, licensed under the [GNU General Public License (GPL) Version 2](LICENSE).
 
@@ -15,7 +15,7 @@ https://github.com/HandBrake/HandBrake
 
 autobuild comand:
 
-## autobuild comand
+ autobuild comand
 In terminal
 
 > mkdir HandBrakeYML;cd HandBrakeYML;wget https://raw.githubusercontent.com/cmatomic/RecipesAppimage/master/handbrake/handbarke.yml;wget https://raw.githubusercontent.com/AppImage/pkg2appimage/master/pkg2appimage; chmod +x pkg2appimage;./pkg2appimage handbarke.yml
