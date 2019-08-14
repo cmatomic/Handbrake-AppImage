@@ -8,6 +8,7 @@ matrix:
 before_install:
   - sudo apt-get install desktop-file-utils zsync
   - chmod +x build.sh
+  - chmod +x pkg2appimage
 script:
   - ./build.sh
 
