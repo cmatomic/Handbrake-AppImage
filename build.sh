@@ -1,3 +1,3 @@
 #!/bin/bash
-./pkg2appimage handbrake.yml
+./pkg2appimage handbarke.yml
 #zsyncmake *.AppImage
