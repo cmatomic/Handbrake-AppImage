@@ -7,7 +7,7 @@ HandBrake takes videos you already have and makes new ones that work on your mob
 
 HandBrake works with most common video files and formats, including ones created by consumer and professional video cameras, mobile devices such as phones and tablets, game and computer screen recordings, and DVD and Blu-ray discs. HandBrake leverages tools such as FFmpeg, x264, and x265 to create new MP4 or MKV video files from these *Sources*.
 
-![handbrake](img/handbrake.png)
+![HandBrake](img/HandBrake.png)
 
 
 For information on downloading, building/installing, and using HandBrake, see the official [HandBrake Documentation](https://handbrake.fr/docs).
