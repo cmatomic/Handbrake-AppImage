@@ -17,7 +17,8 @@ https://github.com/HandBrake/HandBrake
 ## Download
 Go to [release](https://github.com/cmatomic/Handbrake-AppImage/releases) page to download the AppImage build 
 
-####if you liked this AppImage you can make a contribution in
+#### If you liked this AppImage you can make a contribution in
+
 Dash: XpkRtpK45jLpaUmiZoma6xPSSJyngeUGaS
 
 Bitcoin: 18YbtF1vWHPaQHpf27qc9nfgWa8wNj92jY
