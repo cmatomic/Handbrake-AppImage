@@ -4,10 +4,10 @@ binpatch: true
 ingredients:
    packages: 
     - handbrake-gtk
-  dist:  xenial
+  dist:  bionic
   sources:
-    - deb http://archive.ubuntu.com/ubuntu/  xenial main universe
-    - deb http://ppa.launchpad.net/stebbins/handbrake-releases/ubuntu xenial main
+    - deb http://archive.ubuntu.com/ubuntu/  bionic main universe
+    - deb http://ppa.launchpad.net/stebbins/handbrake-releases/ubuntu bionic main
   script:
     - cat > HandBrake.desktop <<EOF
     - [Desktop Entry]
